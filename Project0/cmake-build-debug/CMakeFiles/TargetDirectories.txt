@@ -1,0 +1,3 @@
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Project0/cmake-build-debug/CMakeFiles/Project0.dir
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Project0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Project0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
