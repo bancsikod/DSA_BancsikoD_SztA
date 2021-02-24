@@ -1,0 +1,4 @@
+"D:\Egyetem\Adatszerkezetek\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Egyetem\Adatszerkezetek\Githubsync\DSA_BancsikoD_SztA\Lab01\lab1_gy1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/cmake-build-debug

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/cmake-build-debug/function.c
+function.h
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/cmake-build-debug/function.h
+
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/cmake-build-debug/function.h
+
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/main.c
+stdio.h
+-
+cmake-build-debug/function.h
+D:/Egyetem/Adatszerkezetek/Githubsync/DSA_BancsikoD_SztA/Lab01/lab1_gy1/cmake-build-debug/function.h
+
