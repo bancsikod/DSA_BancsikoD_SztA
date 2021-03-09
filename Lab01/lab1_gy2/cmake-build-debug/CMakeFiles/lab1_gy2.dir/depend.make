@@ -7,8 +7,6 @@ CMakeFiles/lab1_gy2.dir/function.c.obj: function.h
 CMakeFiles/lab1_gy2.dir/function2.c.obj: function2.c
 CMakeFiles/lab1_gy2.dir/function2.c.obj: function2.h
 
-CMakeFiles/lab1_gy2.dir/function3.c.obj: function3.c
-CMakeFiles/lab1_gy2.dir/function3.c.obj: function3.h
 
 CMakeFiles/lab1_gy2.dir/main.c.obj: function.h
 CMakeFiles/lab1_gy2.dir/main.c.obj: function2.h

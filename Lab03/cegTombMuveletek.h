@@ -1,0 +1,8 @@
+//
+// Created by David on 03/09/2021.
+//
+
+#ifndef LAB03_CEGTOMBMUVELETEK_H
+#define LAB03_CEGTOMBMUVELETEK_H
+
+#endif //LAB03_CEGTOMBMUVELETEK_H
